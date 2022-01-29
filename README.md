@@ -1,1 +1,1 @@
-# AutomationFramework
+# Automation Framework - Selenium + Java
