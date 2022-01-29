@@ -1,0 +1,18 @@
+SRP Design Pattern -
+The Single-Responsibility Principle is one of the design pattern
+that states that every module, class should have responsibility over a
+single part of that program's functionality.
+
+Example -
+1. When a class is highly coupled with more responsibilities,
+any small change to requirement could easily lead to many changes in
+other parts of code which is harder to maintain.
+
+2. SRP helps developers write code that are decoupled, where each class
+has it's own job and encapsulate responsibilities to other classes.
+If specifications of this job changes, developer makes changes to that
+specific class only.
+
+3. The change is less likely to break entire application as other
+classes should still be doing their job as before, unless of course they
+were broken in first place.

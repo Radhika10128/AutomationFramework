@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners> 
+<listener class-name="automationResources.ProjectListeners" />
+</listeners>
+  <test name = "Parallel Tests" parallel = "classes" thread-count = "2">
+    <classes>
+      <class name="Automation.DesignPattern"/>
+      <class name="Automation.ShoppingCart"/>
+      <class name="Automation.ScrollingTableAndDropdowns"/>
+      <class name="Automation.AlertsAndLinksInSeparateTab"/>
+      <class name="Automation.FileUpload"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

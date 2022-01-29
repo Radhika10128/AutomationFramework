@@ -1,0 +1,6 @@
+13:31:46.838 [pool-2-thread-1] INFO  PageComponents.Log - Close browser
+13:31:48.135 [pool-2-thread-2] INFO  PageComponents.Log - Close browser
+13:31:49.594 [pool-2-thread-1] INFO  PageComponents.Log - Maximize window
+13:31:52.532 [pool-2-thread-2] INFO  PageComponents.Log - Maximize window
+13:32:16.074 [pool-2-thread-1] INFO  PageComponents.Log - C:\Users\HP World\IdeaProjects\DesignPatternsFramework\ExtentReport\Screenshots\windowAndTableScroll29-01-2022 13-32-15.png
+13:32:16.174 [pool-2-thread-1] INFO  PageComponents.Log - Close browser
